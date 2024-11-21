@@ -1,5 +1,5 @@
 import numpy as np 
 
-a = nu.ones((2,2))
+a = np.ones((2,2))
 
 
